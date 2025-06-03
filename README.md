@@ -19,7 +19,7 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### Links
 
--   [Solution on Frontend Mentor]()
+-   [Solution on Frontend Mentor](https://www.frontendmentor.io/learning-paths/getting-started-on-frontend-mentor-XJhRWRREZd/steps/683ce93f9b5ac95dc52cbad4/challenge/refactor)
 -   [Live Site](https://wolf-root.github.io/Frontend-Mentor-Recipe-page/)
 
 ## My process
