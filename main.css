@@ -132,4 +132,16 @@ main table tr:last-child td {
   body {
     font-size: 0.8rem;
   }
+  main {
+    margin: 0;
+    padding: 20px;
+    border-radius: 0;
+  }
+  img {
+    border-radius: 0;
+  }
+  .image-wrapper {
+    margin: -30px;
+    margin-bottom: 1rem;
+  }
 }/*# sourceMappingURL=main.css.map */

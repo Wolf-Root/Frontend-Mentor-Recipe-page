@@ -180,4 +180,18 @@ main {
     body {
         font-size: 0.8rem;
     }
+
+    main {
+        margin: 0;
+        padding: $padding-base * 2;
+        border-radius: 0;
+    }
+
+    img {
+        border-radius: 0;
+    }
+    .image-wrapper {
+        margin: -30px;
+        margin-bottom: 1rem;
+    }
 }
